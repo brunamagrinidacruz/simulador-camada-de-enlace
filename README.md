@@ -1,10 +1,13 @@
+# Simulador da Camada de Enlace
+
+Project for Computer Network (SSC0142) - Computer Science @ Instituto de Ciências Matemáticas e de Computação (ICMC) - Universidade de São Paulo (USP). São Carlos, Brazil, 2023.
+
 Bruna Magrini da Cruz, 11218813  
 Marlon José Martins, 10249010  
 Wellington Matos Amaral, 11315054  
 
-Projeto para matéria de Redes de Computadores (SSC0142) para o curso de Ciências de Computação da USP São Carlos.
+## Sumário 
 
-# Simulador da Camada de Enlace
 O código `SimuladorCamadaDeEnlace.cpp` simula a camada de Enlace do Modelo OSI.
 
 ## Especificações do sistema
